@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
-using TestDotnetMsSql.Api.Opentelemetry;
+using TestDotnetMsSql.Api.OpenTelemetry;
 using OpenTelemetry.Trace;
 using OpenTelemetry.Exporter;
 
