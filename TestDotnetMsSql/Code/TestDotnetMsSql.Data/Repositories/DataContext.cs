@@ -21,6 +21,7 @@ namespace TestDotnetMsSql.Data.Repositories
 
         // Don't delete the below comment.
         // Dbset variables
+		public DbSet<Teacher> Teacher { get; set; }
 		public DbSet<Employee> Employee { get; set; }
                
 
